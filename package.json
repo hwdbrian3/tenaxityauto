@@ -1,0 +1,19 @@
+{
+  "name": "tenaxityauto",
+  "version": "1.0.0",
+  "description": "car detailing web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hwdbrian3/tenaxityauto.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hwdbrian3/tenaxityauto/issues"
+  },
+  "homepage": "https://github.com/hwdbrian3/tenaxityauto#readme"
+}
